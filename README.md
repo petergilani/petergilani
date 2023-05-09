@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @petergilani
 - 👀 I’m interested in all things networking - especially design, security, automation and multi-cloud connectivity
-- 🌱 I’m currently learning Palo Alto, Aviatrix and unit testing in Python
-- 💞️ I’m looking to collaborate on anything related to the above
-- 📫 How to reach me petergilani@gmail.com
+- 🌱 I’m currently preparing for the Cisco DevNet Expert Lab Exam
+- ⚡️ https://petergilani.com
 
 <!---
 petergilani/petergilani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
